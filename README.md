@@ -17,6 +17,9 @@ Asegúrate de tener las siguientes herramientas instaladas en tu sistema:
 
 - [Git](https://git-scm.com/)
 - [G++](https://gcc.gnu.org/)
+- [Visual Studio Code](https://code.visualstudio.com/docs/languages/javascript)
+- [React](https://es.react.dev/learn/installation)
+- [JavaScript](https://code.visualstudio.com/docs/languages/javascript)
 
 ## Instalación
 
@@ -31,22 +34,25 @@ Sigue los siguientes pasos para clonar e instalar el proyecto en tu máquina loc
 
 2. **Navegar en el directorio del Proyecto:**
 
+   ```bash
    cd Proyecto-Final-Estructuras
    
 4. **Compila el proyecto:**
 
    Asegúrate de estar en el directorio raíz del proyecto y ejecuta el siguiente comando:
 
+   ```bash
    g++ -o main src/*.cpp
    
-   Esto compilará todos los archivos .cpp en el directorio src y creará un ejecutable llamado main.
+Esto compilará todos los archivos .cpp en el directorio src y creará un ejecutable llamado main.
 
 ##Uso
    Para ejecutar el proyecto, utiliza el siguiente comando en la terminal:
-   
-   ./main
 
-   Esto ejecutará el programa y podrás interactuar con las estructuras de datos implementadas.
+      ```bash
+      ./main
+      
+Esto ejecutará el programa y podrás interactuar con las estructuras de datos implementadas.
 ## Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
