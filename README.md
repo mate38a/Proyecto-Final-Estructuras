@@ -35,14 +35,7 @@ Sigue los siguientes pasos para clonar e instalar el proyecto en tu máquina loc
 
    ```bash
    cd Proyecto-Final-Estructuras
-   
-4. **Compila el proyecto:**
-
-   Asegúrate de estar en el directorio raíz del proyecto y ejecuta el siguiente comando:
-
-   ```bash
-   g++ -o main src/*.cpp
-   
+      
 Esto compilará todos los archivos .cpp en el directorio src y creará un ejecutable llamado main.
 
 ##Uso
