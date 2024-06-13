@@ -47,12 +47,14 @@ Sigue los siguientes pasos para clonar e instalar el proyecto en tu máquina loc
 Esto compilará todos los archivos .cpp en el directorio src y creará un ejecutable llamado main.
 
 ##Uso
-   Para ejecutar el proyecto, utiliza el siguiente comando en la terminal:
+   Para ejecutar el proyecto, utiliza el siguiente comando en la terminal, tanto en el Back como en el Front:
 
-      ```bash
-      ./main
+     ```bash
+      yarn start
+   
       
 Esto ejecutará el programa y podrás interactuar con las estructuras de datos implementadas.
+
 ## Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
