@@ -16,7 +16,6 @@ Este es el proyecto final para la materia de Estructuras de Datos. El objetivo d
 Asegúrate de tener las siguientes herramientas instaladas en tu sistema:
 
 - [Git](https://git-scm.com/)
-- [G++](https://gcc.gnu.org/)
 - [Visual Studio Code](https://code.visualstudio.com/docs/languages/javascript)
 - [React](https://es.react.dev/learn/installation)
 - [JavaScript](https://code.visualstudio.com/docs/languages/javascript)
