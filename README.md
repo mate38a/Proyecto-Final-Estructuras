@@ -1,6 +1,6 @@
 # Proyecto Final de Estructuras
 
-Este es el proyecto final para la materia de Estructuras de Datos. El objetivo de este proyecto es implementar y utilizar diversas estructuras de datos en C++.
+Este es el proyecto final para la materia de Estructuras de Datos. El objetivo de este proyecto es implementar y utilizar diversas estructuras de datos en MySQL.
 
 ## Contenido
 
