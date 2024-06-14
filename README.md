@@ -40,16 +40,16 @@ Sigue los siguientes pasos para clonar e instalar el proyecto en tu máquina loc
       
 Esto compilará todos los archivos .cpp en el directorio src y creará un ejecutable llamado main.
 
-##Ejecución
+## Ejecución
 
 1. El primer paso es iniciar el Visual Studio y montar el proyecto [¿Como montar un proyecto a VSCode?](https://www.youtube.com/watch?v=GVmntLlqqA8)
 2. Luego de esto, vas a inicializar el proyecto usando, tanto en el front como en el back se usó la misma
    ```bash
-      ```yarn start
+      yarn start
 3. Para continuar con el proceso, cuando se hacer el despliegue con Yarn en ambas partes del proyecto, es necesario abrir la base de datos usando MySQL Workbench, en este caso, tenemos definida la base de datos en el Local Instance MySql 80, el predeterminado de MySQL, esto para evitar errores, recuerda descargar la Base de Datos del siguiente [Link](https://drive.google.com/drive/folders/12bpnYt1tFTeoeinIWJSdfBqF1-NpXkF_?usp=sharing).
 4. Luego, el programa funcionará correctamente, si tienes alguna duda, puedes comencatr acerca del codigo y estaremos pendientes
 
-##Uso
+## Uso
 
 El programa es una red social sencilla, donde puedes compartir estados, seguir amigos, compartir pensamientos, y jugar algun juego en la pestaña Games, el proyecto es bastante sencillo, entonces hay muchas opciones que aún no están en uso, si deseas actualizarlo, puedes usar el proyecto
 
