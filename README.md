@@ -21,6 +21,7 @@ Asegúrate de tener las siguientes herramientas instaladas en tu sistema:
 - [Visual Studio Code](https://code.visualstudio.com/docs/languages/javascript)
 - [React](https://es.react.dev/learn/installation)
 - [JavaScript](https://code.visualstudio.com/docs/languages/javascript)
+- [MySQL y MySQL WorkBench](https://www.youtube.com/watch?v=unjlhan8wsk)
 
 ## Instalación
 
